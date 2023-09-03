@@ -1,0 +1,18 @@
+ACTIVIDAD MAQUINAS VIRTUALES :
+
+1. Por que un lenguaje de programacion solo puede utilizarse en algunos sistemas operativos y en otros no?.
+
+R// Puede depender de algunos factores como la dependencia de bibliotecas y/o las Apis que son especificas del sistema operativo, y se necesitan>
+funciones. Otro punto a teneren cuenta es la arquitectura del hardware, ya que algunos lenguajes de programacion pueden estar
+optimizados para arquitecturas especificas, y esto limita su uso en ciertos sistemas. Y otro tema que no es tan frecuente, pero puede
+suceder es el tema de la portabilidad del lenguaje y el enfoque de desarrollo.
+
+2.Que tipo de maquina virtual soporta virtualBox?.
+R//  VirtualBox soporta sistemas operativos como Windows, Linux, macOS, FreeBSD, Solaris y otros invitados personalizados
+ 
+3. Que funcion cumple el hypervisor en la virtualizacion? R// El hipervisor en la virtualizaciON permite crear y gestionar multiples 
+ maquinas virtuales en una sola maquina fisica. Su funcion principal es asignar recursos, aislar las VM, emular hardware, administrar y 
+ garantizar seguridad.
+
+4. Si tengo mas de una maquina virtual instalada, y una se rompe, esto afecta a las demas?por que?
+R//: No afecta a las demas, ya que estas se encuentran aisladas y separadas a nivel de sistema operativo y de recursos.
